@@ -1,3 +1,4 @@
+#command= 'open name_of_app '
 apps={
 
 'google': 'https://www.google.com',
