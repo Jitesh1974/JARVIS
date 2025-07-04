@@ -27,7 +27,7 @@ def processCommand(c):
 
       #using AI model to process command
     else:
-         genai.configure(api_key="AIzaSyB4zUdR61V5X7A3bfPz9SEeuxdV0CZm1GI")
+         genai.configure(api_key="PASTE_YOUR_API_KEY_HERE")
 
          model = genai.GenerativeModel("gemini-1.5-flash")
 
